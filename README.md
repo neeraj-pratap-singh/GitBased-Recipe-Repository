@@ -36,7 +36,7 @@ Contribution to this project follows a streamlined process designed for both nov
 
 1. **Fork the Repository**: Fork the main repository to your GitHub account.
 2. **Clone the Repository**: Clone your forked repository to your local machine.
-3. **Create a New Branch**: Name it meaningfully based on what you're contributing (e.g., `recipe/chocolate-chip-cookies`).
+3. **Create a New Branch**: Name it meaningfully based on what you're contributing (e.g., `recipe/aloo-paratha`).
 4. **Add Your Recipe**: Write your recipe in a Markdown file within the appropriate `cuisine` folder in the `recipes/` directory.
 5. **Open a Pull Request**: After committing your changes, submit a pull request for review.
 

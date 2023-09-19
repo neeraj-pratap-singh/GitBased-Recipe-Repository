@@ -52,7 +52,7 @@ Thank you for your interest in contributing to our Git-Based Recipe Repository. 
 - For example:
 
     ```
-    recipe/chocolate-chip-cookies
+    recipe/aloo-paratha
     ```
 
 ---
