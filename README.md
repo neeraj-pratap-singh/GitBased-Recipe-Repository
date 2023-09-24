@@ -96,7 +96,7 @@ For questions, suggestions, or feedback, feel free to open an issue or send us a
 
 ---
 
-**Last Updated**: `23/09/2023`
+**Last Updated**: `24/09/2023`
 
 **Contributors**: [List of contributors](CONTRIBUTORS.md)
 
