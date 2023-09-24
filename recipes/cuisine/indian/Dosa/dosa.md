@@ -1,4 +1,4 @@
-Certainly! Here's a classic South Indian Dosa recipe:
+Lets Make Dosa at Home, for making dosa we need:
 
 **Ingredients:**
 
@@ -10,10 +10,9 @@ For the Dosa Batter:
 - Salt to taste
 
 For Making Dosas:
-- Dosa batter (from above)
+- Dosa batter
 - Oil or ghee for cooking
 
-**Instructions:**
 
 **Preparing the Dosa Batter:**
 
