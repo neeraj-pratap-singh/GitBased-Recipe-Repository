@@ -25,3 +25,10 @@
 - **Contact Information**: [studajay3@gmail.com](mailto:studajay3@gmail.com9@gmail.com)
 
 For information on how to contribute to this project, please refer to the [README.md](./README.md) file and the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines.
+
+## Vaibhav Kamble
+
+- **GitHub Username**: https://github.com/noload
+- **Role**: Contributor
+- **Areas of Expertise**: Recipe Shared
+- **Contact Information**: [vaibhavkamble023@gmail.com]
